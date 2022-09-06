@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kotflix</string>
+    <string name="description_logo">Logo</string>
+    <string name="button_list">Mi lista</string>
+    <string name="button_info">Información</string>
+    <string name="button_play">Reproducir</string>
+    <string name="categoria1">Ficcion</string>
+    <string name="categoria2">\u2022 Suspenso</string>
+    <string name="categoria3">\u2022 Misterio</string>
+    <string name="categoria4">\u2022 Adrenalina</string>
+    <string name="title1">Series</string>
+    <string name="title2">Películas</string>
+    <string name="title3">Categorías</string>
+    <string name="categorie1">De Misterio</string>
+    <string name="title_rv_premiere">Estrenos 2022</string>
+    <string name="title_rv_horror">Terror y misterio</string>
+
+</resources>

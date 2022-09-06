@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logo_dimen">25dp</dimen>
+    <dimen name="left_search">8dp</dimen>
+    <dimen name="margin_search">8dp</dimen>
+    <dimen name="header_padding">25dp</dimen>
+    <dimen name="header_top">30dp</dimen>
+    <dimen name="text_button">10dp</dimen>
+    <dimen name="margin_categories">15dp</dimen>
+    <dimen name="text_size_categories">12dp</dimen>
+    <dimen name="subtitle">18dp</dimen>
+    <dimen name="margin_right_search">15dp</dimen>
+    <dimen name="size_title">15dp</dimen>
+    <dimen name="size_categorie">10dp</dimen>
+    <dimen name="button_text">9dp</dimen>
+    <dimen name="sixe_title_rv">20dp</dimen>
+    <dimen name="paddin_title_rv">18dp</dimen>
+</resources>
