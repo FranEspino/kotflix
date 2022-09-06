@@ -17,7 +17,9 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
-
+    viewBinding{
+        enabled = true
+    }
     buildTypes {
         release {
             minifyEnabled false
@@ -28,6 +30,9 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+
+
+
     kotlinOptions {
         jvmTarget = '1.8'
     }
@@ -52,5 +57,5 @@ dependencies {
     implementation 'com.squareup.retrofit2:converter-gson:2.6.1'
     //Exoplayer
     implementation 'com.google.android.exoplayer:exoplayer:2.18.1'
-    
+
 }
