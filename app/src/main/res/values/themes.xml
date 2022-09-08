@@ -14,11 +14,10 @@
         <!-- Customize your theme here. -->
     </style>
     <style name="KotflixApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowTranslucentStatus">true</item>
     </style>
-
-
 
 </resources>
